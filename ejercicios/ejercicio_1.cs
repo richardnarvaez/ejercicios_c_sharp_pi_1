@@ -8,7 +8,7 @@ namespace ejercicio_1
 
     public Ej1(){}
 
-    public void Ejercicio1() {
+    public static void Ejercicio1() {
       Console.WriteLine ("Base");
       int b  = int.Parse(Console.ReadLine());
       Console.WriteLine ("Altura");

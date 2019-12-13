@@ -12,7 +12,7 @@ namespace ejercicio_7
 
     public Ej7(){}
 
-    public void Ejercicio7() {
+    public static void Ejercicio7() {
       int n;
             float auxProm;
             string auxNom;

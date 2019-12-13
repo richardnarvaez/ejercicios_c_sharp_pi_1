@@ -12,7 +12,7 @@ namespace ejercicio_9
 
     public Ej9(){}
 
-    public void Ejercicio9() {
+    public static void Ejercicio9() {
       
     }
 

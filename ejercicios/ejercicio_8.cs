@@ -12,7 +12,7 @@ namespace ejercicio_8
 
     public Ej8(){}
 
-    public void Ejercicio8() {
+    public static void Ejercicio8() {
       int[] A = new int[10];
             int[] B = new int[10];
             int[] C = new int[10];

@@ -8,7 +8,7 @@ namespace ejercicio_5
 
     public Ej5(){}
 
-    public void Ejercicio5() {
+    public static void Ejercicio5() {
                   int n,op;
             string aux;
        

@@ -6,13 +6,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ejercicio_9
+namespace ejercicio_22
 {
-  class Ej9 {
+  class Ej22 {
 
-    public Ej9(){}
+    public Ej22(){}
 
-    public void Ejercicio9() {
+    public static void Ejercicio22() {
       
     }
 

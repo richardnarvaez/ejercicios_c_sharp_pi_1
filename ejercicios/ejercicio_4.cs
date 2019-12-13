@@ -12,7 +12,7 @@ namespace ejercicio_4
 
     public Ej4(){}
 
-    public void Ejercicio4() {
+    public static void Ejercicio4() {
       int n;
             float medA;
 

@@ -8,7 +8,7 @@ namespace ejercicio_2
 
     public Ej2(){}
 
-    public void Ejercicio2() {
+    public static void Ejercicio2() {
       Console.WriteLine ("Ingresa un ENTERO a:");
       int a = int.Parse(Console.ReadLine());
       

@@ -22,7 +22,7 @@ namespace ejercicio_3
 
     public Ej3(){}
 
-    public void Ejercicio3() {
+    public static void Ejercicio3() {
       int n;
 
       Console.WriteLine("Cantidad de elementos a INTRODUCIR");

@@ -12,7 +12,7 @@ namespace ejercicio_6
 
     public Ej6(){}
 
-    public void Ejercicio6() {
+    public static void Ejercicio6() {
       Random rand = new Random();
 
             int[] A = new int[100];
